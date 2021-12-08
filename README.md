@@ -37,7 +37,7 @@
 			<img src="/.github/icons/sass.svg" width="30"/>
 		</td>
 		<td>
-			<img src="/.github/icons/styled-components.svg" width="60"/>
+			<img src="/.github/icons/styled-components.svg" width="30"/>
 		</td>
 		<td >
 			<img src="/.github/icons/bootstrap.svg" width="30"/>
