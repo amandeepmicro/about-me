@@ -57,7 +57,7 @@
     	<td><sub>Vue.js</sub></td>
 	<td><sub>D3</sub></td>
 	 <td><sub>SASS</sub></td>
-		<td><sub>Styled Components</sub></td>
+		<td><sub>Styled</sub></td>
 		<td><sub>Bootstrap</sub></td>
 		<td><sub>Semantic UI</sub></td>
 		<td><sub>Material UI</sub></td>
