@@ -37,7 +37,7 @@
 			<img src="/.github/icons/sass.svg" width="30"/>
 		</td>
 		<td>
-			<img src="/.github/icons/styled-components.svg" width="30"/>
+			<img src="/.github/icons/styled-components.svg" width="60"/>
 		</td>
 		<td >
 			<img src="/.github/icons/bootstrap.svg" width="30"/>
@@ -57,7 +57,7 @@
     	<td><sub>Vue.js</sub></td>
 	<td><sub>D3</sub></td>
 	 <td><sub>SASS</sub></td>
-		<td><sub>Styled</sub></td>
+		<td><sub>Styled Components</sub></td>
 		<td><sub>Bootstrap</sub></td>
 		<td><sub>Semantic UI</sub></td>
 		<td><sub>Material UI</sub></td>
