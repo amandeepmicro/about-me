@@ -92,7 +92,7 @@
 ### 🤝 Connect with me.
 <p align="left">
 <a href="https://www.linkedin.com/in/amandeep-singh-0803/"><img src="/.github/icons/linkedin.svg" width="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:https://www.linkedin.com/in/amandeep-singh-0803/"><img src="/.github/icons/email.svg" width="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:amandeep.singh.fsd@gmail.com"><img src="/.github/icons/email.svg" width="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/amandeeps0803?hr_r=1"><img src="/.github/icons/hackerrank.svg" width="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
