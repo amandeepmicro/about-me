@@ -97,10 +97,10 @@
 			<img src="/.github/icons/git.svg" width="30"/>
 		</td>
 		<td>
-			<img src="/.github/icons/trello.svg" width="30"/>
+			<img src="/.github/icons/slack.svg" width="30"/>
 		</td>
 		<td>
-			<img src="/.github/icons/slack.svg" width="30"/>
+			<img src="/.github/icons/trello.svg" width="30"/>
 		</td>
 	</tr>
 	<tr align="center">
