@@ -9,7 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=amandeepmicro&show_icons=true&theme=radical&layout=compact" alt="amandeepmicro's Github Stats" width="300" height="100" />
 <p>
 
-***
+---
 
 ### 👩‍💻 Technologies I am familiar with and have used in my projects.
 
@@ -51,18 +51,17 @@
     </tr>
     <tr align="center" >
 	    <td><sub>JavaScript</sub></td>
-	<td><sub>TypeScript<sub></td>
+			<td><sub>TypeScript<sub></td>
     	<td><sub>React</sub></td>
     	<td><sub>Redux</sub></td>
     	<td><sub>Vue.js</sub></td>
-	<td><sub>D3</sub></td>
-	 <td><sub>SASS</sub></td>
-		<td><sub>Styled Components</sub></td>
-		<td><sub>Bootstrap</sub></td>
-		<td><sub>Semantic UI</sub></td>
-		<td><sub>Material UI</sub></td>
+			<td><sub>D3</sub></td>
+			<td><sub>SASS</sub></td>
+			<td><sub>Styled Components</sub></td>
+			<td><sub>Bootstrap</sub></td>
+			<td><sub>Semantic UI</sub></td>
+			<td><sub>Material UI</sub></td>
     </tr>
-
 </table>
 <table >
 	<tr align="center">
@@ -86,13 +85,39 @@
 		<td><sub>Socket.IO</sub></td>
 	</tr>
 </table>
-
+<table >
+	<tr align="center">
+		<td >
+			<img src="/.github/icons/postman.svg" width="30"/>
+		</td>
+		<td >
+			<img src="/.github/icons/visual-studio-code.svg" width="30"/>
+		</td>
+		<td>
+			<img src="/.github/icons/git.svg" width="30"/>
+		</td>
+		<td>
+			<img src="/.github/icons/trello.svg" width="30"/>
+		</td>
+		<td>
+			<img src="/.github/icons/slack.svg" width="30"/>
+		</td>
+	</tr>
+	<tr align="center">
+		<td><sub>Postman</sub></td>
+		<td><sub>Vs Code</sub></td>
+		<td><sub>Git</sub></td>
+		<td><sub>Slack</sub></td>
+		<td><sub>Trello</sub></td>
+	</tr>
+</table>
 
 ---
+
 ### 🤝 Connect with me.
+
 <p align="left">
 <a href="https://www.linkedin.com/in/amandeep-singh-0803/"><img src="/.github/icons/linkedin.svg" width="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:https://www.linkedin.com/in/amandeep-singh-0803/"><img src="/.github/icons/email.svg" width="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/amandeeps0803?hr_r=1"><img src="/.github/icons/hackerrank.svg" width="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
