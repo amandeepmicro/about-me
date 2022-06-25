@@ -4,11 +4,6 @@
 
 </div>
 
-<p align="">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amandeepmicro&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height="100" width="300" />
-<img src="https://github-readme-stats.vercel.app/api?username=amandeepmicro&show_icons=true&theme=radical&layout=compact" alt="amandeepmicro's Github Stats" width="300" height="100" />
-<p>
-
 ---
 
 ### 👩‍💻 Technologies I am familiar with and have used in my projects.
