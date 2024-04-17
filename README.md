@@ -1,12 +1,16 @@
-<div>
 
-### 👋 Hi there, I am <a href="https://amandeep-singh.web.app/">Amandeep Singh!</a>
+### 👋 Hi there, 
+I am <a href="https://amandeep-singh.web.app/">Amandeep Singh</a>, Founder of <a href="https://codersleague.onrender.com/">Coder's League</a> and I'm based in Delhi, India. 
 
-</div>
+- ✅ Engineer
+- ✅ Perfectionist
+- ✅ Post graduate
+- ✅ Sportsperson 
+- ✅ Anime lover
 
 ---
 
-### 👩‍💻 Technologies I am familiar with and have used in my projects.
+### 👩‍💻 Technologies
 
 <table >
 	<tr align="center">
@@ -112,16 +116,16 @@
 ### 🤝 Connect with me.
 
 <p align="left">
-<a href="https://www.linkedin.com/in/amandeep-singh-0803/"><img src="/.github/icons/linkedin.svg" width="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/singhamandeep007/"><img src="/.github/icons/linkedin.svg" width="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:amandeep.singh.fsd@gmail.com"><img src="/.github/icons/email.svg" width="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/amandeeps0803?hr_r=1"><img src="/.github/icons/hackerrank.svg" width="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### Badges
+### 🏅 Badges
 
 <table >
 	<tr align="center">
-		<td >
+		<td width="30">
 			<p>30NitesOfCode:</p>
 
 [Check out my progress!](https://www.codedex.io/@amandeep007/30-nites-of-code)  
