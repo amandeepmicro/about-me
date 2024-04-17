@@ -116,3 +116,19 @@
 <a href="mailto:amandeep.singh.fsd@gmail.com"><img src="/.github/icons/email.svg" width="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/amandeeps0803?hr_r=1"><img src="/.github/icons/hackerrank.svg" width="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+### Badges
+
+<table >
+	<tr align="center">
+		<td >
+			<p>30NitesOfCode:</p>
+
+[Check out my progress!](https://www.codedex.io/@amandeep007/30-nites-of-code)  
+![@amandeep007 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=amandeep007)
+		</td>
+	</tr>
+</table>
+
+
+
