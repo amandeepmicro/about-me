@@ -125,6 +125,10 @@ I am <a href="https://amandeep-singh.web.app/">Amandeep Singh</a>, Founder of <a
 
 <table >
 	<tr align="center">
+  		<td width="30">
+			<p>Credly</p>
+			<a href="https://www.credly.com/users/amandeep-singh.4de3948f">Check out my badges!</a>
+		</td>
 		<td width="30">
 			<p>30NitesOfCode:</p>
 
