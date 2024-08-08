@@ -101,17 +101,17 @@ I am <a href="https://singhamandeep007.github.io/">Amandeep Singh</a>, Founder o
 
 ### 🔥 Achivements
 
-<p align="left">
-<a href="https://exercism.org/profiles/amandeepmicro">Excercism</a>
-<a href="https://www.hackerrank.com/profile/singhAmandeep007">Hackerrank</a>
-<a href="https://www.credly.com/users/amandeep-singh.4de3948f">Credly</a>
-<a href="https://codepen.io/singhAmandeep007">Codepen</a>
-<a href="https://leetcode.com/u/singhAmandeep007">Leetcode</a>
-<a href="https://www.codedex.io/@amandeep007">Codedex</a>
-<a href="https://typehero.dev/@singhAmandeep007">Typehero</a>	
-<a href="https://www.freecodecamp.org/fccad451672-23e7-4c05-8cbc-d4b8c54ca550">FreeCodeCamp</a>
-<a href="https://devtools.tech/users/i/Y4scdb7nz5Yphk5O0a5V">Devtools</a>
-</p>
+<ol>
+<li><a href="https://exercism.org/profiles/amandeepmicro">Excercism</a></li>
+<li><a href="https://www.hackerrank.com/profile/singhAmandeep007">Hackerrank</a></li>
+<li><a href="https://www.credly.com/users/amandeep-singh.4de3948f">Credly</a></li>
+<li><a href="https://codepen.io/singhAmandeep007">Codepen</a></li>
+<li><a href="https://leetcode.com/u/singhAmandeep007">Leetcode</a></li>
+<li><a href="https://www.codedex.io/@amandeep007">Codedex</a></li>
+<li><a href="https://typehero.dev/@singhAmandeep007">Typehero</a>	</li>
+<li><a href="https://www.freecodecamp.org/fccad451672-23e7-4c05-8cbc-d4b8c54ca550">FreeCodeCamp</a></li>
+<li><a href="https://devtools.tech/users/i/Y4scdb7nz5Yphk5O0a5V">Devtools</a></li>
+</ol>
 
 
 
