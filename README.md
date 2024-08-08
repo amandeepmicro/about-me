@@ -2,11 +2,6 @@
 ### 👋 Hi there, 
 I am <a href="https://singhamandeep007.github.io/">Amandeep Singh</a>, Founder of <a href="https://codersleague.onrender.com/">Coder's League</a> and I'm based in Delhi, India. 
 
-- ✅ Engineer
-- ✅ Perfectionist
-- ✅ Post graduate
-- ✅ Sportsperson 
-- ✅ Anime lover
 
 ---
 
