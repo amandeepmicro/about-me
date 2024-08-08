@@ -14,6 +14,12 @@ I am <a href="https://singhamandeep007.github.io/">Amandeep Singh</a>, Founder o
 
 <table >
 	<tr align="center">
+		<td>
+			<img src="/.github/icons/html.svg" width="30"/>
+		</td>
+                <td>
+			<img src="/.github/icons/css.svg" width="30"/>
+		</td>
 		<td >
 			<img src="/.github/icons/javascript.svg" width="30"/>
 		</td>
@@ -25,45 +31,30 @@ I am <a href="https://singhamandeep007.github.io/">Amandeep Singh</a>, Founder o
 		</td>	
 		<td >
 			<img src="/.github/icons/redux.svg" width="30"/>
-		</td>	
+		</td>
+		<td >
+			<img src="/.github/icons/nextjs.svg" width="30"/>
+		</td>
 		<td >
 			<img src="/.github/icons/vue-js.svg" width="30"/>
 		</td>
-		<td >
-			<img src="/.github/icons/d3.svg" width="30"/>
-		</td>
-		<td>
-			<img src="/.github/icons/sass.svg" width="30"/>
-		</td>
-		<td>
-			<img src="/.github/icons/styled-components.svg" width="30"/>
-		</td>
-		<td >
-			<img src="/.github/icons/bootstrap.svg" width="30"/>
-		</td>
-		<td>
-			<img src="/.github/icons/semantic-ui.svg" width="30"/>
-		</td>
-		<td>
-			<img src="/.github/icons/materialui.svg" width="30"/>
-		</td>
     </tr>
     <tr align="center" >
-	    <td><sub>JavaScript</sub></td>
-			<td><sub>TypeScript<sub></td>
+	<td><sub>HTML</sub></td>
+	<td><sub>CSS<sub></td>
+    	<td><sub>Javascript</sub></td>
+    	<td><sub>Typescript</sub></td>
     	<td><sub>React</sub></td>
-    	<td><sub>Redux</sub></td>
-    	<td><sub>Vue.js</sub></td>
-			<td><sub>D3</sub></td>
-			<td><sub>SASS</sub></td>
-			<td><sub>Styled Components</sub></td>
-			<td><sub>Bootstrap</sub></td>
-			<td><sub>Semantic UI</sub></td>
-			<td><sub>Material UI</sub></td>
+	<td><sub>Redux</sub></td>
+	<td><sub>Next</sub></td>
+	<td><sub>Vue</sub></td>
     </tr>
 </table>
 <table >
 	<tr align="center">
+		<td >
+			<img src="/.github/icons/python.svg" width="30"/>
+		</td>
 		<td >
 			<img src="/.github/icons/nodejs.svg" width="30"/>
 		</td>
@@ -73,15 +64,12 @@ I am <a href="https://singhamandeep007.github.io/">Amandeep Singh</a>, Founder o
 		<td>
 			<img src="/.github/icons/mongodb.svg" width="30"/>
 		</td>
-		<td>
-			<img src="/.github/icons/socketio.svg" width="30"/>
-		</td>
 	</tr>
 	<tr align="center">
-		<td><sub>Node.js</sub></td>
-		<td><sub>Express.js</sub></td>
+		<td><sub>Python</sub></td>
+		<td><sub>Node</sub></td>
+		<td><sub>Express</sub></td>
 		<td><sub>MongoDB</sub></td>
-		<td><sub>Socket.IO</sub></td>
 	</tr>
 </table>
 <table >
@@ -98,16 +86,12 @@ I am <a href="https://singhamandeep007.github.io/">Amandeep Singh</a>, Founder o
 		<td>
 			<img src="/.github/icons/slack.svg" width="30"/>
 		</td>
-		<td>
-			<img src="/.github/icons/trello.svg" width="30"/>
-		</td>
 	</tr>
 	<tr align="center">
 		<td><sub>Postman</sub></td>
 		<td><sub>Vs Code</sub></td>
 		<td><sub>Git</sub></td>
 		<td><sub>Slack</sub></td>
-		<td><sub>Trello</sub></td>
 	</tr>
 </table>
 
@@ -118,25 +102,21 @@ I am <a href="https://singhamandeep007.github.io/">Amandeep Singh</a>, Founder o
 <p align="left">
 <a href="https://www.linkedin.com/in/singhamandeep007/"><img src="/.github/icons/linkedin.svg" width="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:amandeep.singh.fsd@gmail.com"><img src="/.github/icons/email.svg" width="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/amandeeps0803?hr_r=1"><img src="/.github/icons/hackerrank.svg" width="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### 🏅 Badges
+### 🔥 Achivements
 
-<table >
-	<tr align="center">
-  		<td width="30">
-			<p>Credly</p>
-			<a href="https://www.credly.com/users/amandeep-singh.4de3948f">Check out my badges!</a>
-		</td>
-		<td width="30">
-			<p>30NitesOfCode:</p>
-
-[Check out my progress!](https://www.codedex.io/@amandeep007/30-nites-of-code)  
-![@amandeep007 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=amandeep007)
-		</td>
-	</tr>
-</table>
+<p align="left">
+<a href="https://exercism.org/profiles/amandeepmicro">Excercism</a>
+<a href="https://www.hackerrank.com/profile/singhAmandeep007">Hackerrank</a>
+<a href="https://www.credly.com/users/amandeep-singh.4de3948f">Credly</a>
+<a href="https://codepen.io/singhAmandeep007">Codepen</a>
+<a href="https://leetcode.com/u/singhAmandeep007">Leetcode</a>
+<a href="https://www.codedex.io/@amandeep007">Codedex</a>
+<a href="https://typehero.dev/@singhAmandeep007">Typehero</a>	
+<a href="https://www.freecodecamp.org/fccad451672-23e7-4c05-8cbc-d4b8c54ca550">FreeCodeCamp</a>
+<a href="https://devtools.tech/users/i/Y4scdb7nz5Yphk5O0a5V">Devtools</a>
+</p>
 
 
 
