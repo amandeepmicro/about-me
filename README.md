@@ -51,6 +51,9 @@ I am <a href="https://singhamandeep007.github.io/">Amandeep Singh</a>, Founder o
 			<img src="/.github/icons/python.svg" width="30"/>
 		</td>
 		<td >
+			<img src="/.github/icons/golang.svg" width="30"/>
+		</td>
+		<td >
 			<img src="/.github/icons/nodejs.svg" width="30"/>
 		</td>
 		<td >
@@ -62,6 +65,7 @@ I am <a href="https://singhamandeep007.github.io/">Amandeep Singh</a>, Founder o
 	</tr>
 	<tr align="center">
 		<td><sub>Python</sub></td>
+		<td><sub>Go</sub></td>
 		<td><sub>Node</sub></td>
 		<td><sub>Express</sub></td>
 		<td><sub>MongoDB</sub></td>
