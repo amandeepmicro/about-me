@@ -107,6 +107,7 @@ I am <a href="https://singhamandeep007.github.io/">Amandeep Singh</a>, Founder o
 
 <ol>
 <li><a href="https://exercism.org/profiles/amandeepmicro">Excercism</a></li>
+<li><a href="https://app.codecrafters.io/users/singhAmandeep007">Codecrafters</a></li>
 <li><a href="https://www.hackerrank.com/profile/singhAmandeep007">Hackerrank</a></li>
 <li><a href="https://dev.to/singhamandeep007">Dev.to</a></li>
 <li><a href="https://www.credly.com/users/amandeep-singh.4de3948f">Credly</a></li>
