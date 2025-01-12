@@ -103,7 +103,7 @@ I am <a href="https://singhamandeep007.github.io/">Amandeep Singh</a>, Founder o
 <a href="mailto:amandeep.singh.fsd@gmail.com"><img src="/.github/icons/email.svg" width="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### 🔥 Achivements
+### 🔥 Achievements
 
 <ol>
 <li><a href="https://exercism.org/profiles/amandeepmicro">Excercism</a></li>
